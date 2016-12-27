@@ -1,0 +1,12 @@
+form {
+
+border: 2px solid #0071D8;
+padding:10px;
+
+}
+#product_price {
+  width:200px;
+}
+input[type="text"]{
+  width: 50px;
+}
